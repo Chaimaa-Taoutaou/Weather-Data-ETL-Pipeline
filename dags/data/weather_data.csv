@@ -1,0 +1,54 @@
+city,Temperature,Description,Humidity,Wind_speed,Timestamp
+Chiavari,25.79,clear sky,66,0.89,
+Guaratuba,16.97,overcast clouds,90,3.68,
+Lingquan,15.73,clear sky,24,2.84,
+Acayucan,21.87,few clouds,94,1.33,
+Santa Helena,28.25,broken clouds,68,2.86,
+Zanjān,25.83,few clouds,14,2.06,
+Moortebeek,19.58,light intensity drizzle,88,6.69,
+Palompon,27.92,overcast clouds,81,3.29,
+Ipubi,29.74,broken clouds,34,2.08,
+Carmo do Rio Claro,20.89,few clouds,62,3.03,
+Dickinson,24.97,scattered clouds,88,2.57,
+Lowestoft,17.95,few clouds,72,7.54,
+Erlanger,14.53,mist,91,2.57,
+Recco,26.57,clear sky,50,1.41,
+Bāruni,35.33,overcast clouds,51,1.99,
+Chitungwiza,28.03,broken clouds,27,3.34,
+Rodgau,24.66,broken clouds,64,5.04,
+Greece,13.41,overcast clouds,94,1.54,
+Yeşilli,29.78,clear sky,21,4.61,
+Toronto,13.29,overcast clouds,89,2.06,2023-09-29 11:26:44.949758
+Ramotswa,26.79,clear sky,20,2.44,2023-09-29 11:26:45.370304
+Vidisha,32.38,broken clouds,49,1.79,2023-09-29 11:26:45.576109
+Orange,18.05,overcast clouds,84,2.57,2023-09-29 11:26:45.981308
+Venosa,24.95,clear sky,38,3.61,2023-09-29 11:26:46.293686
+Frankfurt (Oder),24.05,overcast clouds,53,1.34,2023-09-29 11:26:46.420757
+Wiener Neudorf,26.39,clear sky,46,6.17,2023-09-29 11:26:46.595279
+Krakow,23.82,clear sky,51,2.06,2023-09-29 11:26:46.732964
+Santo Antônio de Jesus,23.5,broken clouds,83,1.35,2023-09-29 11:26:46.888716
+Tramandaí,17.67,clear sky,80,7.4,2023-09-29 11:26:47.077049
+Drochia,26.79,clear sky,22,3.19,2023-09-29 11:26:47.251182
+Maniwa,23.29,clear sky,90,0.74,2023-09-29 11:26:47.427879
+Copán,20.82,overcast clouds,99,0.32,2023-09-29 11:26:47.655719
+Villareal,26.76,moderate rain,87,2.21,2023-09-29 11:26:47.842031
+Tuntum,28.13,few clouds,59,3.06,2023-09-29 11:26:48.222008
+Campos do Jordão,10.35,overcast clouds,76,1.36,2023-09-29 11:26:48.418194
+Bathgate,15.14,scattered clouds,67,9.77,2023-09-29 13:12:48.266422
+Talas,26.37,scattered clouds,24,3.6,2023-09-29 13:12:48.597413
+Omboué,26.66,overcast clouds,75,3.81,2023-09-29 13:12:48.896011
+San Antonio,22.31,clear sky,91,0.0,2023-09-29 13:12:49.123181
+Hessisch Lichtenau,24.15,overcast clouds,45,5.92,2023-09-29 13:12:49.366216
+Tamboril,28.42,scattered clouds,79,1.54,2023-09-29 13:12:49.818310
+Keuruu,17.1,overcast clouds,78,4.12,2023-09-29 13:12:50.282716
+Winchester,18.72,scattered clouds,63,5.66,2023-09-29 13:12:50.450111
+Woods Cross,12.04,few clouds,61,1.54,2023-09-29 13:12:50.730313
+Orange,17.86,overcast clouds,86,2.06,2023-09-29 13:12:50.954965
+Saubara,26.45,overcast clouds,70,2.22,2023-09-29 13:12:51.222879
+Izola,28.01,clear sky,36,2.06,2023-09-29 13:12:51.435439
+Apartadó,26.36,scattered clouds,88,1.37,2023-09-29 13:12:51.582389
+Hudson,15.32,heavy intensity rain,91,8.75,2023-09-29 13:12:51.981978
+Bima,23.31,overcast clouds,84,1.71,2023-09-29 13:12:52.681198
+Tibú,26.37,overcast clouds,86,0.05,2023-09-29 13:12:52.932105
+Kulunda,13.34,broken clouds,58,1.18,2023-09-29 13:12:53.202941
+Piro,30.88,overcast clouds,65,2.11,2023-09-29 13:12:53.426366
